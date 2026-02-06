@@ -1,0 +1,19 @@
+{
+  "name": "chatting-app",
+  "version": "1.0.0",
+  "description": "chatting app",
+  "license": "ISC",
+  "author": "abdulrahman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
